@@ -1,6 +1,3 @@
-# Daily Report
-
-
 ## DR　　2021/01/09　(SAT)
 ----------
 ## [GOOD]
