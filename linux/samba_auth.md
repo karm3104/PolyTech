@@ -82,8 +82,8 @@ $sudo adduser {user} {group}
     writable = yes
     guest ok = no
     guest only = no
-    create mode = 0776等
-    directory mode = 0776等
+    create mode = 0xxx等
+    directory mode = 0xxx等
     valid users = 
       ユーザー複数の場合：xxxx, yyyy, zzzz
       グループ単位の場合：@{グループ名}
